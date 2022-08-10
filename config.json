@@ -1,0 +1,35 @@
+{
+    "ownerNumber": "6281372460910@s.whatsapp.net", 
+    "ownerName": "mzulhamr", 
+    "botName": "RicaBotz",
+    "footer": "© RicaBotz | 2022", 
+    "sessionName": "session", 
+    "pathimg": "./media/logo.jpg", 
+    "pathqris": "./media/qris.jpg",
+    "group": "https://chat.whatsapp.com/JKUws8FIRGwGvmVGw8H7n5",
+    "Instagram": "https://instagram.com/rica_store.id",
+     
+    "textBarisDonate1": "Dana : 0853-8460-3140",
+    "textBarisDonate2": "Ovo : 0895-35956-5399",
+    "textBarisDonate3": "Gopay : 0895-35956-5399",
+    "textBarisDonate4": "Pulsa : 0813-7246-0910",
+  
+    "ButtonTextMenu1": "Instagram",
+    "ButtonTextMenu2": "Owner Bot",
+    "quickReplyButton3": "Rules",
+    "quickReplyButton4": "Donasi",
+    "quickReplyButton5": "Dashboard",
+  
+    "ButtonMenuLink1": "https://instagram.com/rica_store.id",
+    "ButtonMenuLink2": "http://Wa.me/6281372460910",
+    "displayTextMenu3": "rules",
+    "displayTextMenu4": "donasi",
+    "displayTextMenu5": "dashboard",
+    "limitCount": 100,
+    "limitGame": 35,
+    "gamewaktu": 90,
+    "sticker": {
+        "packname": "© Store",
+        "author": "Wrtg Botz"
+    }
+}

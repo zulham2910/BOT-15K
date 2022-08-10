@@ -1,0 +1,28 @@
+1.Download Script Nya Dan Ekstrak
+Pindahin Ke Halaman Utama / Home
+
+2.Lalu Ketik Di Termux
+$ pkg update && pkg upgrade
+$ pkg install nodejs
+$ pkg install libwebp
+$ pkg install ffmpeg
+$ pkg install mc
+$ pkg install yarn
+$ termux-setup-storage
+$ cd /sdcard/NEOV7
+$ yarn
+$ npm start
+
+3.Selesai tinggal Scan QR nya :
+1.Buka WhatsApp Kalian
+2.Klik Titik tiga di pojok kanan atas
+3.Klik Perangkat Tertaut / WhatsApp Web
+4.Klik Lagi Tautkan Perangkat
+5.Kalo ada bacaan ok klik aja
+6.Scan dah Mainkan Bot nya...
+
+Termux Yang Gw Pakai :
+https://www.mediafire.com/file/f01sbphqjsd37b3/TermuxMod.apk/file
+
+Aplikasi MT manager :
+https://www.mediafire.com/file/rtm974ekxo4lxrd/MCF_MT_Manager.apk/file
